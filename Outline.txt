@@ -1,0 +1,17 @@
+- Users (CRUD)
+- Roles (CRUD)
+- Dynamic Privilidge
+  - Users with Roles
+
+- Deploy
+
+
+
+
+=============================
+- CMS
+- Software Engineering Topics
+
+
+IsDelete   IsUpdate   IsRead  IsCreate  RoleId
+1                  1                  0              1                1

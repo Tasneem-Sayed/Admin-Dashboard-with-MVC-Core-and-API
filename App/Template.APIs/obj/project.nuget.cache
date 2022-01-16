@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "8L/6MGhHqkewGEyuvM0+m8aWjCe6wXNdaT7nfKOsJWtbH27iS52q5r+gVb2xKjX9r05KnghsyfvJ2QpF0jTbFw==",
+  "success": false,
+  "projectFilePath": "E:\\tas\\fullstack\\FullStack\\.net core\\ASP.NET Core\\ASP.NET Core\\Session_9-20211217T182109Z-001\\Session_9\\App + Files\\App\\Template.APIs\\Template.APIs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tasneem SAyed\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.12\\microsoft.aspnetcore.jsonpatch.5.0.12.nupkg.sha512",
+    "C:\\Users\\Tasneem SAyed\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.12\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.12.nupkg.sha512",
+    "C:\\Users\\Tasneem SAyed\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Tasneem SAyed\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tasneem SAyed\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tasneem SAyed\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Tasneem SAyed\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Tasneem SAyed\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tasneem SAyed\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tasneem SAyed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tasneem SAyed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'E:\\tas\\fullstack\\FullStack\\.net core\\ASP.NET Core\\ASP.NET Core\\Session_9-20211217T182109Z-001\\Session_9\\App + Files\\App\\Template.BL\\Template.BL.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "E:\\tas\\fullstack\\FullStack\\.net core\\ASP.NET Core\\ASP.NET Core\\Session_9-20211217T182109Z-001\\Session_9\\App + Files\\App\\Template.BL\\Template.BL.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
